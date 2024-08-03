@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanchit</h1>
 <h3 align="center">A Passionate Python Developer</h3>
 
-- 🔭 I’m currently working on **BirdCLEF**
+- 🔭 I’m currently working on **Deep Learning**
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
